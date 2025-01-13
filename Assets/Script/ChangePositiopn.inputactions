@@ -1,0 +1,34 @@
+{
+    "name": "ChangePositiopn",
+    "maps": [
+        {
+            "name": "ChangePosition",
+            "id": "dd4282d5-ce93-4334-af45-e15f247ea13e",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Button",
+                    "id": "aa5a781c-0bd5-4437-9772-5a61644bd41d",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "Press",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "33221612-dd02-489e-a242-0e1646317b07",
+                    "path": "<OculusTouchController>{LeftHand}/{PrimaryButton}",
+                    "interactions": "Press",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

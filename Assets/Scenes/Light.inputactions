@@ -1,0 +1,34 @@
+{
+    "name": "Light",
+    "maps": [
+        {
+            "name": "Change",
+            "id": "da563a63-947e-4e58-80fc-fb7a8e126d29",
+            "actions": [
+                {
+                    "name": "ChangeColor",
+                    "type": "Button",
+                    "id": "2bda3e37-eda3-4b99-b29d-17f4c13fcd89",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "Press",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "040209f2-b00f-4b3b-828d-41f9f7f81b90",
+                    "path": "<OculusTouchController>{LeftHand}/{SecondaryButton}",
+                    "interactions": "Press",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ChangeColor",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

@@ -1,0 +1,34 @@
+{
+    "name": "Quit",
+    "maps": [
+        {
+            "name": "Quit",
+            "id": "b63b0792-b361-4a02-836c-5fda1d51a49a",
+            "actions": [
+                {
+                    "name": "Quit",
+                    "type": "Button",
+                    "id": "982e7f11-b7cf-494b-a009-dd0adad603d6",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "a8e07340-9aad-41e9-8039-79dc7de0edb1",
+                    "path": "<OculusTouchController>/triggerPressed",
+                    "interactions": "Press",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Quit",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

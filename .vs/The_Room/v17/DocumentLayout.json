@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\orlan\\OneDrive\\Desktop\\The_Room\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67468B71-DF95-0509-C1B9-4768286AA4AD}|Assembly-CSharp.csproj|c:\\users\\orlan\\onedrive\\desktop\\the_room\\assets\\script\\changeposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67468B71-DF95-0509-C1B9-4768286AA4AD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\changeposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\orlan\\OneDrive\\Desktop\\The_Room\\Library\\PackageCache\\com.unity.ide.visualstudio@2.0.22\\Editor\\VisualStudioIntegration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.ide.visualstudio@2.0.22\\Editor\\VisualStudioIntegration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\orlan\\OneDrive\\Desktop\\The_Room\\Assets\\Script\\Light.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\Light.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67468B71-DF95-0509-C1B9-4768286AA4AD}|Assembly-CSharp.csproj|C:\\Users\\orlan\\OneDrive\\Desktop\\The_Room\\assets\\script\\quit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67468B71-DF95-0509-C1B9-4768286AA4AD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\quit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\orlan\\OneDrive\\Desktop\\The_Room\\Assets\\Rotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Rotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\orlan\\OneDrive\\Desktop\\The_Room\\assets\\script\\lightchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\script\\lightchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Light.cs",
+              "DocumentMoniker": "C:\\Users\\orlan\\OneDrive\\Desktop\\The_Room\\Assets\\Script\\Light.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Light.cs",
+              "ToolTip": "C:\\Users\\orlan\\OneDrive\\Desktop\\The_Room\\Assets\\Script\\Light.cs",
+              "RelativeToolTip": "Assets\\Script\\Light.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T14:06:14.967Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VisualStudioIntegration.cs",
+              "DocumentMoniker": "C:\\Users\\orlan\\OneDrive\\Desktop\\The_Room\\Library\\PackageCache\\com.unity.ide.visualstudio@2.0.22\\Editor\\VisualStudioIntegration.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ide.visualstudio@2.0.22\\Editor\\VisualStudioIntegration.cs",
+              "ToolTip": "C:\\Users\\orlan\\OneDrive\\Desktop\\The_Room\\Library\\PackageCache\\com.unity.ide.visualstudio@2.0.22\\Editor\\VisualStudioIntegration.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.ide.visualstudio@2.0.22\\Editor\\VisualStudioIntegration.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAASwGMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T14:49:11.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LightChange.cs",
+              "DocumentMoniker": "C:\\Users\\orlan\\OneDrive\\Desktop\\The_Room\\Assets\\Script\\LightChange.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\LightChange.cs",
+              "ToolTip": "C:\\Users\\orlan\\OneDrive\\Desktop\\The_Room\\Assets\\Script\\LightChange.cs",
+              "RelativeToolTip": "Assets\\Script\\LightChange.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T14:47:09.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Quit.cs",
+              "DocumentMoniker": "C:\\Users\\orlan\\OneDrive\\Desktop\\The_Room\\Assets\\Script\\Quit.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Quit.cs",
+              "ToolTip": "C:\\Users\\orlan\\OneDrive\\Desktop\\The_Room\\Assets\\Script\\Quit.cs",
+              "RelativeToolTip": "Assets\\Script\\Quit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T14:36:19.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChangePosition.cs",
+              "DocumentMoniker": "C:\\Users\\orlan\\OneDrive\\Desktop\\The_Room\\Assets\\Script\\ChangePosition.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ChangePosition.cs",
+              "ToolTip": "C:\\Users\\orlan\\OneDrive\\Desktop\\The_Room\\Assets\\Script\\ChangePosition.cs",
+              "RelativeToolTip": "Assets\\Script\\ChangePosition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T14:08:12.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Rotation.cs",
+              "DocumentMoniker": "C:\\Users\\orlan\\OneDrive\\Desktop\\The_Room\\Assets\\Rotation.cs",
+              "RelativeDocumentMoniker": "Assets\\Rotation.cs",
+              "ToolTip": "C:\\Users\\orlan\\OneDrive\\Desktop\\The_Room\\Assets\\Rotation.cs",
+              "RelativeToolTip": "Assets\\Rotation.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T13:17:24.496Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
